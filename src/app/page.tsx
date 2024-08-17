@@ -3,7 +3,7 @@ export default function Home() {
 
   return (
     <div>
-      Wohoo
+      Yessa
       <div>Coming from `.env`: {process.env.MY_ENV}</div>
     </div>
   );
