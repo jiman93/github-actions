@@ -3,7 +3,7 @@ export default function Home() {
 
   return (
     <div>
-      Nice one!
+      GOOD ONE!
       <div>Coming from `.env`: {process.env.MY_ENV}</div>
     </div>
   );
