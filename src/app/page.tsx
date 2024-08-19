@@ -3,7 +3,7 @@ export default function Home() {
 
   return (
     <div>
-      GOOD ONE!
+      Circle CI is here yo!!
       <div>Coming from `.env`: {process.env.MY_ENV}</div>
     </div>
   );
