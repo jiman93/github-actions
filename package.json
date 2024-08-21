@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "jest",    "test:selenium": "jest --config=jest.selenium.config.js"
-
+    "test": "jest",
+    "test:selenium": "jest"
   },
   "dependencies": {
     "chromedriver": "^127.0.3",
